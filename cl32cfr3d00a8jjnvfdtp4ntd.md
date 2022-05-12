@@ -19,4 +19,4 @@
 你在哪个国哪座城，你又是为什么而来的呢？
 
 
-![u=3643740722,4184947979&fm=253&fmt=auto&app=138&f=JPEG.webp](https://cdn.hashnode.com/res/hashnode/image/upload/v1652319227329/CikxbeVG4.webp align="left")
+![migration.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1652322222518/x_BYCQ7JJ.jpg align="left")
