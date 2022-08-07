@@ -23,4 +23,4 @@
 看着场上追逐飞盘的人们，我忽然发现酒局和飞盘，就是一个标准的团建的样子，好像一场寓言。
 
 
-![disc.jpg](Uploading...)
+![disc.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1659879212213/M-CSP8N8G.jpg align="left")
