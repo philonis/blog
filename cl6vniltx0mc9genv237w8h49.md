@@ -1,4 +1,4 @@
-## 困在 Kpi 里的皇帝
+## 困在 Kpi 里的皇帝 - How to Destroy the Empire
 
 ![qianlong.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1660621516649/nK0G6YPh9.jpg align="left")
 
