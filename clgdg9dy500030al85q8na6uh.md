@@ -9,6 +9,8 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/jLwVAUtLOAQ/up
 
 ---
 
+<iframe height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/cn/podcast/%E6%8F%90%E6%A1%B6%E8%B7%91%E8%B7%AF%E7%9A%84up%E4%B8%BB%E4%BB%AC/id1492740686?i=1000608469443"></iframe>
+
 有朋友留言问我说停更 Blog 的事情，起因是前两天录的节目中，我们聊到内容创作的正向激励问题，我也深深感到能够持续保持创作动力真的很难，我自己写也是这样。不过我也没给自己定位成停更，更像是随遇而安了。
 
 以前和一位朋友聊天，彼时那位朋友正在准备创作她的长篇小说，每天痴迷于设计人设，当然在我看来，她正在创作的可能称之为网文更合适一些，当然这不重要，枯插一下出来的网文就是长篇小说，羊拉屎一样的长篇小说就是网文 —— 当时她对我说，写作最重要的并不是文笔好坏，唯有坚持下去。当然我那时还不太理解，心说如果文字错漏百出丝毫没有文学感，也能称之为小说吗？当然后来我才看到起点上的动辄几百万字的小说连载，我终于打消了疑虑。
