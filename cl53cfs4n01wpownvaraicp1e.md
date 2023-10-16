@@ -1,4 +1,13 @@
-## 去香港 - Walking in HongKong
+---
+title: "去香港 - Walking in HongKong"
+seoTitle: "去香港 - Walking in HongKong"
+seoDescription: "庆祝香港回归的日子很是热闹，让我想起了自己的一段香港印象"
+datePublished: Sat Jul 02 2022 03:47:27 GMT+0000 (Coordinated Universal Time)
+cuid: cl53cfs4n01wpownvaraicp1e
+slug: walking-in-hongkong
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/g-AklIvI1aI/upload/v1656732984430/-NcGvFN5j.jpeg
+
+---
 
 2019 年下半年，去了几次香港。
 
@@ -9,11 +18,13 @@
 掏出烟，旁边徜徉出一位很老很老的老大爷，向我比划了两个手指仿佛在宣告胜利，我心照不宣的掏出一根烟放进他的手指，给他点上，老大爷点点头，继续徜徉着前进了。留下我站在垃圾桶边，感受着夜晚略带寒意的海风。
 
 （就是这个垃圾桶）
+
 ![IMG_2018.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1656732633974/kCVjrrOpa.jpg align="left")
 
 嘉里中心一楼有几个压扁了的人——的塑像，可能预示着楼上社畜们的生活状态，也可能是让社畜们看到时会有成为小巨人的错觉。二楼有几家小馆子，每到中午开饭的时候，人潮汹涌。一家西式简餐总是在排队，我有时会拐进一家声称米芝莲推荐（米其林）的小店吃煲仔饭，穿过层层叠叠的桌椅和座位，保持全程如飞机餐一般的用餐姿态，假装听不到邻桌的私语。
 
 （就是这个面馆）
+
 ![food.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1656732682812/4jdwUYaBj.jpg align="left")
 
 而实在无聊则会下楼，绕过后面的花园，进到小巷，巷子里有一些饭店，每家饭店的面积大概就相当于普通住宅的客厅大小，也要塞入三四张圆桌，三个人点上三个菜三个白饭，人均大约八九十人民币，便是一顿工作餐。
@@ -24,6 +35,6 @@
 
 后来疫情蔓延，大家居家办公远程会议的时候，我才发现香港同事们的家，是多么的逼仄，相信每个人开会前肯定整理过背景，但仍难掩凄凉。
 
-（酒店窗外的夜色）
+（酒店窗外的夜色，拍摄于港岛香格里拉酒店）
 
 ![night.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1656732756613/cMYt3KWjO.jpg align="left")
