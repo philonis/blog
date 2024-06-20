@@ -31,4 +31,4 @@ cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/0GNONO6tkQI/up
 
 再后来我拿起这本书，看到如此多名人死亡的样貌，便总能回忆起那两个甚至没有名字的小朋友，如果他们活着，今年应该快三十五岁了。
 
-![](https://img2.doubanio.com/view/subject/l/public/s27978811.jpg align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1718853537277/1c973179-9aac-4272-8d7d-2da804fde2a0.jpeg align="center")
