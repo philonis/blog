@@ -5,10 +5,9 @@ seoDescription: "朋友们都知道我订了一辆小米su7，我终于还是没
 datePublished: Fri Jan 03 2025 09:21:27 GMT+0000 (Coordinated Universal Time)
 cuid: cm5gjplfi000709l43opwdikg
 slug: emotional-value
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1735896129984/3dbc8ca0-12ee-4902-a5a0-bf1f860ca505.jpeg
 
 ---
-
-![](https://pic.rmb.bdstatic.com/bjh/cms/240330/e08923d1544aa46f7a85e1f740f4789d_1711789169.4637_952.png@h_1280 align="left")
 
 朋友们都知道我订了一辆小米su7，我终于还是没有经得住营销大师雷军的真诚忽悠。
 
